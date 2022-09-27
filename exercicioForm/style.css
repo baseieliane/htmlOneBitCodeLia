@@ -1,0 +1,25 @@
+body {
+  background-color: cadetblue;
+}
+
+.h {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(3, 3, 56);
+}
+
+form {
+  text-align: center;
+  margin-top: 50px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(4, 4, 78);
+  width: fit-content;
+  border: 5px solid rgb(255, 255, 255);
+  border-radius: 20px;
+  margin-left: 350px;
+  margin-top: 5px;
+  padding: 5px;
+}

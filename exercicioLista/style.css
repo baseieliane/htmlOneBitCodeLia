@@ -1,0 +1,17 @@
+body {
+  background-image: url(./imagem/1870790.jpg);
+  background-size: 150%;
+}
+
+.cabeçalho {
+  color: pink;
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.lista {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
